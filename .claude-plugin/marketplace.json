@@ -1,0 +1,5 @@
+{
+  "name": "ekadetov-mods",
+  "owner": { "name": "ekadetov" },
+  "plugins": [{ "name": "user-message-border", "source": "./" }]
+}
